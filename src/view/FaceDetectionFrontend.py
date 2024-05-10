@@ -5,7 +5,7 @@ import sys
 import cv2
 from PyQt5.QtWidgets import QApplication, QLabel, QWidget, QPushButton 
 from PyQt5.QtGui import QImage, QPixmap
-sys.path.append("C:/Users/jerem/Face Detector Program/Model/")
+sys.path.append("C:/Users/jerem/everything_python/face_detector_program/Model/")
 from face_detection_backend import Backend
 
 
