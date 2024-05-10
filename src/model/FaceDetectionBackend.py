@@ -10,7 +10,7 @@ class Backend():
         self.RED_COLOR = (0, 0, 255) 
         self.LINE_THICKNESS = 4 
         self.video = cv2.VideoCapture(0) 
-        self.face_classifier = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+        self.face_classifier = cv2.CascadeClassifier('C:/Users/jerem/everything_python/face_detector_program/Bin/haarcascade_frontalface_default.xml')
 
     def draw_face_rectangle(self, video, x, y, w, h):
         """Draws a rectangle around the detected face."""
