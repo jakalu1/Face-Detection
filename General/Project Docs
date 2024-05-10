@@ -1,6 +1,21 @@
-Documentation
-Research
-Notes
-Diagrams
-etc,
-that was used in project creation is stored here
+                                                      Project Documentation
+This file contains information about the resources, documentation, and references used in the development of the Face Detection Program.
+
+1. OpenCV Documentation: The official documentation for the OpenCV library was extensively used for understanding and implementing the face detection functionality using the Haar Cascade Classifier.
+- OpenCV Documentation: https://docs.opencv.org/4.x/
+- Face Detection using Haar Cascades: https://docs.opencv.org/4.x/d7/d8b/tutorial_py_face_detection.html
+
+2. PyQt5 Documentation
+PyQt5 Documentation: The official documentation for the PyQt5 library was used for creating the graphical user interface (GUI) and integrating the video feed display.
+- PyQt5 Documentation: https://www.riverbankcomputing.com/static/Docs/PyQt5/
+- QLabel Documentation: https://doc.qt.io/qt-5/qlabel.html
+- QPushButton Documentation: https://doc.qt.io/qt-5/qpushbutton.html
+
+3. Tutorials and Blogs
+Various online tutorials and blog posts were used to learn and understand the concepts and techniques involved in face detection and GUI development.
+- PyQt5 Tutorial: https://www.pythonguis.com/pyqt5-tutorial/
+- OpenCV Face Detection Tutorial: https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
+- DataCamp Tutorial: The "Face Detection with Python using OpenCV Tutorial" from DataCamp provided a comprehensive guide on using OpenCV for face detection in images and video streams: https://www.datacamp.com/tutorial/face-detection-python-opencv
+
+4. Stack Overflow: Various questions and answers on Stack Overflow were consulted for troubleshooting and finding solutions to specific issues encountered during the development process.
+- https://stackoverflow.com/
